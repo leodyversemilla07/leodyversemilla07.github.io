@@ -3,8 +3,7 @@
 
 This repository hosts the code for my personal portfolio website, designed to showcase my projects, skills, and professional journey. With a clean and modern layout, I've created a space to highlight my passion for technology and share my experiences in the world of software engineering.
 
-🌐 Live Site:
-[https://yourusername.github.io](https://leodyversemilla07.github.io)
+[Live Site](https://leodyversemilla07.github.io)
 
 Features:
 
