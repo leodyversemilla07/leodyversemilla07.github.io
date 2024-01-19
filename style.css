@@ -10,12 +10,12 @@ ul {
 }
 
 body {
-  font-family: "Arial", sans-serif;
+  font-family: "Cambria", sans-serif;
   line-height: 1.6;
 }
 
 header {
-  background-color: #333;
+  background-color: #000000;
   color: #fff;
   padding: 1em 0;
   text-align: center;
@@ -32,6 +32,10 @@ nav ul li {
 
 section {
   margin: 40px 0;
+  padding-right: 80px;
+  padding-left: 80px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .project {
@@ -45,11 +49,11 @@ section {
 }
 
 footer {
-  background-color: #333;
+  background-color: #000000;
   color: #fff;
   text-align: center;
   padding: 1em 0;
-  position: fixed;
+  position: relative;
   bottom: 0;
   width: 100%;
 }
