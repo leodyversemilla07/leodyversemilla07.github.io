@@ -49,12 +49,14 @@
         padding: 1rem 0;
       }
 
-      .logo {
-        font-size: 1.5rem;
-        font-weight: 600;
-        color: #c4b454;
-        text-decoration: none;
-        letter-spacing: 1px;
+      .logo img {
+        height: 40px;
+        width: auto;
+        transition: transform 0.3s ease;
+      }
+
+      .logo img:hover {
+        transform: scale(1.1);
       }
 
       nav ul {
@@ -284,7 +286,7 @@
     <header>
       <div class="container">
         <nav>
-          <a href="#home" class="logo">Leodyver Semilla</a>
+          <a href="#home" class="logo"><img src="logo.png" alt="my logo" /></a>
           <ul>
             <li><a href="#home">Home</a></li>
             <li><a href="#projects">Projects</a></li>
