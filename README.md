@@ -1,24 +1,36 @@
-# leodyversemilla07.github.io 
-Welcome to My Portfolio!
+# Leodyver Semilla's Portfolio
 
-This repository hosts the code for my personal portfolio website, designed to showcase my projects, skills, and professional journey. With a clean and modern layout, I've created a space to highlight my passion for technology and share my experiences in the world of software engineering.
+Welcome to my professional portfolio! 🚀
 
-[Live Site](https://leodyversemilla07.github.io)
+[![Portfolio](https://img.shields.io/badge/Visit-Live_Site-blue)](https://leodyversemilla07.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717)](https://github.com/leodyversemilla07)
 
-Features:
+## Overview
 
-Projects: Explore a collection of my notable projects with detailed descriptions and links to their respective repositories.
-Skills: Discover the technologies and programming languages I specialize in, reflecting my proficiency as a software engineer.
-Resume: Download my latest resume and learn more about my education, work experience, and accomplishments.
-How to Navigate:
+This repository hosts my personal portfolio website, showcasing my journey as a software engineer. Here, you'll find my projects, technical skills, and professional experience.
 
-Start at the main page (index.html) for an overview of my portfolio.
-Dive into the various sections to get a comprehensive view of my skills and projects.
-Download my resume directly from the dedicated section.
-Customization:
-Feel free to fork this repository and customize it for your own personal portfolio. Showcase your coding journey, projects, and skills with a sleek and functional design.
+## Features
 
-Stay Connected:
-Connect with me on LinkedIn and GitHub to stay updated on my latest projects and contributions.
+- 📂 **Project Portfolio**: Collection of my web development and software projects
+- 💻 **Technical Skills**: Full-stack development technologies and tools
+- 📄 **Experience**: Professional background and achievements
+- 📱 **Responsive Design**: Mobile-friendly and accessible layout
 
-Thank you for visiting my portfolio!
+## Navigation
+
+1. Visit the main portfolio at `index.html`
+2. Browse through my featured projects
+3. Explore my technical expertise
+4. View my professional background
+
+## Quick Access
+
+```bash
+git clone https://github.com/leodyversemilla07/leodyversemilla07.github.io.git
+cd leodyversemilla07.github.io
+```
+
+## Contact
+
+- 📧 Email: leodyversemilla07@gmail.com
+- 🐱 GitHub: [@leodyversemilla07](https://github.com/leodyversemilla07)
