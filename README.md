@@ -1,36 +1,26 @@
-# Leodyver Semilla's Portfolio
+# Welcome to My Personal Website
 
-Welcome to my professional portfolio! 🚀
+👋 Hi there! This is my personal corner of the web.
 
-[![Portfolio](https://img.shields.io/badge/Visit-Live_Site-blue)](https://leodyversemilla07.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717)](https://github.com/leodyversemilla07)
+## About Me
 
-## Overview
+I'm passionate about technology and continuous learning. This website tell about:
 
-This repository hosts my personal portfolio website, showcasing my journey as a software engineer. Here, you'll find my projects, technical skills, and professional experience.
+- 👨‍💻 Who I am
+- 🌱 My professional interests
+- 🎨 Career aspirations
+- 🔗 Socials
 
-## Features
+## Let's Connect!
 
-- 📂 **Project Portfolio**: Collection of my web development and software projects
-- 💻 **Technical Skills**: Full-stack development technologies and tools
-- 📄 **Experience**: Professional background and achievements
-- 📱 **Responsive Design**: Mobile-friendly and accessible layout
+I'm always excited to collaborate and meet fellow tech enthusiasts:
 
-## Navigation
+- 💼 GitHub: [leodyversemilla07](https://github.com/leodyversemilla07)
+- 📧 Email: [leodyversemilla07@gmail.com](mailto:leodyversemilla07@gmail.com)
 
-1. Visit the main portfolio at `index.html`
-2. Browse through my featured projects
-3. Explore my technical expertise
-4. View my professional background
+Feel free to explore my projects and reach out for collaborations!
 
-## Quick Access
+---
 
-```bash
-git clone https://github.com/leodyversemilla07/leodyversemilla07.github.io.git
-cd leodyversemilla07.github.io
-```
+_This site is powered by GitHub Pages_
 
-## Contact
-
-- 📧 Email: leodyversemilla07@gmail.com
-- 🐱 GitHub: [@leodyversemilla07](https://github.com/leodyversemilla07)
