@@ -1,26 +1,25 @@
 # Welcome to My Personal Website
 
-👋 Hi there! This is my personal corner of the web.
+Hi there! This is my personal corner of the web.
 
 ## About Me
 
-I'm passionate about technology and continuous learning. This website tell about:
+I'm passionate about technology and continuous learning. This site includes:
 
-- 👨‍💻 Who I am
-- 🌱 My professional interests
-- 🎨 Career aspirations
-- 🔗 Socials
+- Who I am  
+- My professional interests  
+- Career aspirations  
+- Social links  
 
-## Let's Connect!
+## Let's Connect
 
-I'm always excited to collaborate and meet fellow tech enthusiasts:
+I'm always open to collaborations and connecting with fellow tech enthusiasts.
 
-- 💼 GitHub: [leodyversemilla07](https://github.com/leodyversemilla07)
-- 📧 Email: [leodyversemilla07@gmail.com](mailto:leodyversemilla07@gmail.com)
+- GitHub: [leodyversemilla07](https://github.com/leodyversemilla07)  
+- Email: [leodyversemilla07@gmail.com](mailto:leodyversemilla07@gmail.com)  
 
-Feel free to explore my projects and reach out for collaborations!
+Feel free to explore my projects and reach out.
 
 ---
 
-_This site is powered by GitHub Pages_
-
+_Powered by GitHub Pages_
